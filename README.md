@@ -4,10 +4,10 @@ Hi, I'm **C. Aravindhan**, a passionate Web Developer and Machine Learning enthu
 
 ## Skills
 - **Programming Languages:** C | C++ | C# | Java | Python | JavaScript
-- **Frontend Technologies:** HTML | CSS | ReactJS | Bootstrap
+- **Frontend Technologies:** HTML | CSS | ReactJS 
 - **Backend Technologies:** Node.js | Express | MongoDB | Flask | FastAPI | Firebase | MySQL
 - **Tools:** Git | Machine Learning (Pandas, Numpy) | Unity | AR (Vuforia Engine)
-- **Cloud Platforms:** Firebase | MongoDB Atlas
+- **Cloud Platforms:** Firebase | MongoDB Atlas | AWS Lambda 
 
 - 🔭 I’m currently working on a fullstack Ecommerce project as a freelancer
 
